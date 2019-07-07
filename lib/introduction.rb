@@ -1,3 +1,3 @@
 introduction greeting_a_person(name)
-  "Hello #{name}"
+  "Hi my name is #{name}."
 end
