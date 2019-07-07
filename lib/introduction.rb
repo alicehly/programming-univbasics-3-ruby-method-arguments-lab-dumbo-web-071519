@@ -1,3 +1,4 @@
-introduction greeting_a_person(name)
+def introduction(name)
   "Hi my name is #{name}."
 end
+
